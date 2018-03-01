@@ -29,7 +29,7 @@
 
 # 404 page
 - id: pageNotFound
-  translation: "啊哦，这篇文章不存在。 (404 错误)"
+  translation: "莫慌，这篇文章不存在。"
 
 # Footer
 - id: poweredBy # Accepts HTML
